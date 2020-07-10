@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     //Type Checking
     val name:Any = "john";

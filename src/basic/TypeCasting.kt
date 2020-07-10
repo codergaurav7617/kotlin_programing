@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     //Type Casting
     val name:Any = "john";

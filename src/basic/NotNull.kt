@@ -1,4 +1,4 @@
-/*
+package basic/*
     1-types :
       a- Nullable
       b- NotNullable
@@ -8,7 +8,7 @@
  */
 fun main(){
     // not null assertion operator !!.
-  printNameLength("john","Doe");
+    printNameLength("john", "Doe");
 }
 
 fun printNameLength(firstname:String?,lastName:String?){
